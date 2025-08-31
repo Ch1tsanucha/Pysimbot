@@ -1,0 +1,3 @@
+kivy[base]==2.2.1
+kivy_examples==2.2.1
+ffpyplayer==4.5.0
